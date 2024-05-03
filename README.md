@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **DSA and React Js**
 
-- 💬 Ask me about **HTML, CSS, Javascript, C++**
+- 💬 Ask me about **HTML, CSS, Javascript, C++, React Ja, Redux**
 
 - 📫 How to reach me **yashraj25182@gmail.com**
 
