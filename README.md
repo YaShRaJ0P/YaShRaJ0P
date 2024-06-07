@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Raj</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashraj0p&label=Profile%20views&color=0e75b6&style=flat" alt="yashraj0p" /> </p>
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Skill Enhancement**
 
-- 🌱 I’m currently learning **DSA and React Js**
+- 🌱 I’m currently learning **DSA and MERN Stack**
 
-- 💬 Ask me about **HTML, CSS, Javascript, C++, React Ja, Redux**
+- 💬 Ask me about **HTML, CSS, Javascript, C++, MERN, Redux, Tailwind CSS, Firebase**
 
 - 📫 How to reach me **yashraj25182@gmail.com**
 
