@@ -34,28 +34,24 @@
 
 - Backend & Database
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,nodejs,firebase,npm" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,vite,ts,bootstrap" />
   </a>
 </p>
 
 - Tools
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,canva" />
   </a>
 </p>
 
 - Web3
 <p align="left">
-    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=solidity" />
   </a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
